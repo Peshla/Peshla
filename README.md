@@ -70,9 +70,8 @@ _Tshwane University Of Technology_
 - 📧 Email: peshlakhosa501@gmail.com
 - 📞 Phone: 0791374718
 - [GitHub](https://github.com/Peshla)
-- [LinkedIn](#) <!-- Add your LinkedIn URL -->
-- [Twitter](#) <!-- Add your Twitter URL -->
-- [Website](#) <!-- Add your website URL -->
+- [LinkedIn] (https://www.linkedin.com/in/peshla-khoza-404398235/)
+- [Website] (https://peshla.github.io/Pesh/)
 
 ---
 
